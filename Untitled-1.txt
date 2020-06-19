@@ -1,0 +1,16 @@
+web $ git clone https://github.com/sedebabygirl/lecture0.git
+
+web $ cd lecture0
+lecture0 $ ls
+lecture0 $ touch hello.html
+lecture0 $ atom.
+lecture0 $ ls
+hello.html
+lecture0 $ github add <hello.html>
+lecture0 $ git commit -m "add hello.html"
+
+ lecture0 $ git commit
+lecture0 $ ls
+hello.html
+lecture0 $ git add hello.html
+lecture0 $ git commit
